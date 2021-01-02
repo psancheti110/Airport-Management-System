@@ -45,8 +45,8 @@ This is on the assumption that the user has already installed the MySQL client.
     - Deletes luggage , meal details of passenger as well as removes the passenger from its current flight provided passenger exists in database.
 
 - This project is made by team A.P.K.  
-    -***[Abdullah Mujtaba](https://github.com/abd808)***,  
-    -***[Prateek Sancheti](https://github.com/psancheti110)***,  
-    -***[Kevin Vargis](https://github.com/KevinVargis)***  
+    - ***[Abdullah Mujtaba](https://github.com/abd808)***,  
+    - ***[Prateek Sancheti](https://github.com/psancheti110)***,  
+    - ***[Kevin Vargis](https://github.com/KevinVargis)***  
     for the course **Data and Application (Prof. Kamalakar Karlapalem)**
 
